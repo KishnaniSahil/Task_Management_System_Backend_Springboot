@@ -1,0 +1,13 @@
+step-1:downlod sql files folder 
+create database name task 
+and create table named as tasks with id,description,status,createdat,editedat,activeYN field
+
+step2:open demo folder in Intellij 
+go to application.properties file change field by your username password and database name 
+
+run the application
+
+step 3: go to Task_Management_System_Frontend_Angular repo
+download it and run npm i in your terminal then ng serve to run
+
+the above process will ensure the proper run of the application
